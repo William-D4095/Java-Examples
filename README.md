@@ -1,1 +1,1 @@
-This folder contains Java exercises. The first item is a number sorter, 
+This folder contains Java exercises. I will finish this later. Goodbye.
